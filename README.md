@@ -15,12 +15,12 @@ Repositório oficial da Paradise Cade
 4. Nano Cade:<br>
     http://paradisecade.com.b/
 5. Arcade Classics.
-<https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
-<https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
+<img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
+<img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
 6. WeeCade.
 7. Listas Disponíveis.
 8. TV
-<https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
+<img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
     - 1.
     - 2.
     - 3.
