@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="paradisecade" name="ParadiseCade Repo" version="0.0.1" provider-name="ParadiseCade">
+	<extension point="xbmc.addon.repository" name="ParadiseCade Repo">
+		<info compressed="false">http://raw.github.com/ParadiseCade/paradisecade/master/addons.xml</info>
+		<checksum>http://raw.github.com/ParadiseCade/paradisecade/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/ParadiseCade/paradisecade/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>ParadiseCade Addon</summary>
+		<description>Detalhes do Addon</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
