@@ -17,10 +17,11 @@ Repositório oficial da Paradise Cade
 5. Arcade Classics.
 <img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
 <img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
+<br>
 6. WeeCade.
 7. Listas Disponíveis.
-8. TV
-<img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460>
+8. TV<br>
+<img src=https://avatars0.githubusercontent.com/u/19649310?v=3&s=460><br>
     - 1.
     - 2.
     - 3.
