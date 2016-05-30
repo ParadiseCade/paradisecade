@@ -7,7 +7,7 @@ Repositório oficial da Paradise Cade
     http://paradisecade.com.br
 2. Instale o repositório da Paradise Cade para o KODI:<br>
     Link 1: https://github.com/ParadiseCade/paradisecade/<br>
-    Link 2: http://paradisecade.com.br/<br>
+    Link 2: https://github.com/ParadiseCade/paradisecade/blob/master/repo/paradisecade/paradisecade-0.0.1.zip/<br>
     Link 3: http://paradisecade.com.br/<br>
     ...
 3. Nossos produtos<br>
